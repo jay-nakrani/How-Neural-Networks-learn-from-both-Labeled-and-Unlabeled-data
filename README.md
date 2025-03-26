@@ -16,12 +16,11 @@ To use the code, you’ll need the following:
 There is a detailed step-by-step tutorial in PDF format to guide you through the process of building and training the neural network model. You can find it in the `tutorial/tutorial.pdf` file.
 
 ## License
-- The code in this project is licensed under the **MIT License**.
-- The tutorial is licensed under **Creative Commons BY 4.0**.
+- The code and tutorial in this project is licensed under the **Apache License 2.0**.
 
 ## Acknowledgments
 - **MNIST Dataset**: [LeCun et al., 1998](http://yann.lecun.com/exdb/mnist/)
 - **Libraries**: TensorFlow, Keras, NumPy
 
 ## Contact
-If you have any questions or feedback, feel free to reach out at: [your-email@example.com]
+If you have any questions or feedback, feel free to reach out at: jaynakrani1999@gmail.com

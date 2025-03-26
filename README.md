@@ -13,7 +13,7 @@ To use the code, you’ll need the following:
 - Libraries like TensorFlow (or other similar libraries), NumPy, and Matplotlib.
 
 ## Tutorial
-There is a detailed step-by-step tutorial in PDF format to guide you through the process of building and training the neural network model. You can find it in the `tutorial/tutorial.pdf` file.
+There is a detailed step-by-step tutorial in PDF format to guide you through the process of building and training the neural network model. You can find it in the `How Neural Networks learn.pdf` file.
 
 ## License
 - The code and tutorial in this project is licensed under the **Apache License 2.0**.
